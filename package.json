@@ -38,7 +38,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "handlebars": "1.0.10",
+    "handlebars": "4.7.10",
     "helper-prettify": "~0.1.7",
     "helper-repeat": "~0.1.0",
     "highlight.js": "~7.3.0",
